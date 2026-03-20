@@ -1,0 +1,37 @@
+﻿python : INFO:discord.client:logging in using static token
+At line:1 char:1
++ python bot.py 2>&1 | Out-File -Encoding utf8 bot_output.log
++ ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO:discord.cl...ng static token:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO:wavelink.node:Experimental request caching has been toggled ON. To disable run Pool.toggle_cache()
+INFO:__main__:Loaded extension: jishaku
+INFO:__main__:Loaded extension: commands.play
+INFO:__main__:Loaded extension: commands.queue
+INFO:__main__:Loaded extension: commands.control
+INFO:__main__:Loaded extension: commands.voice
+INFO:__main__:Loaded extension: commands.filters
+INFO:__main__:Loaded extension: commands.advanced
+INFO:__main__:Loaded extension: commands.search
+INFO:__main__:Loaded extension: commands.events
+INFO:__main__:Loaded extension: commands.owner
+INFO:__main__:Loaded extension: commands.settings
+INFO:__main__:Loaded extension: commands.help
+INFO:__main__:Loaded extension: commands.afk
+INFO:__main__:Loaded extension: commands.moderation
+INFO:__main__:Loaded extension: commands.playlist
+INFO:__main__:Loaded extension: commands.spotify
+INFO:__main__:Loaded extension: commands.utility
+INFO:__main__:Loaded extension: commands.vcmod
+INFO:__main__:Loaded extension: commands.customize
+INFO:__main__:Loaded extension: commands.logging
+INFO:__main__:Loaded extension: commands.badges
+INFO:__main__:Wavelink Node connected: MAIN
+INFO:discord.gateway:Shard ID 0 has connected to Gateway (Session ID: 00690cc1ff600dde7035f3406b0b5575).
+INFO:__main__:Found 7 guild(s) with 24/7 mode enabled
+WARNING:__main__:Could not find guild 1221909487472869619 for 24/7 reconnect
+WARNING:__main__:Could not find guild 1422071577453002838 for 24/7 reconnect
+INFO:__main__:Reconnected to 24/7 channel in guild Argo - Logs
+WARNING:__main__:Could not find guild 1335254079651450946 for 24/7 reconnect
+WARNING:__main__:Could not find guild 1339787577695141999 for 24/7 reconnect
